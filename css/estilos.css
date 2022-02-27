@@ -69,7 +69,7 @@ menu{
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-image:url("../css/assets/eco.jpg") ;
+    background-image:url("./assets/eco.jpg") ;
     background-color:#2b2821;
     background-blend-mode:soft-light ;
     background-size: cover;
